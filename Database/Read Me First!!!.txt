@@ -1,0 +1,8 @@
+1. Please import the bacpac 
+2. copy all query from Sequence_Query file 
+3. paste on a new query page in Microsoft SQL Server Management Studio 
+4. select BONGO_DB from available database combo box.
+5. create sequence one by one by selecting sequence creation queries one by one and executing. 
+
+As .bacpac file does not support sequence and gives error while exporting 
+all sequences are dropped. 
