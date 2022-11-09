@@ -69,6 +69,12 @@ G. LogOut
 3. Live login assist from admin
 4. .exe file to install the program
 
-**Developed by:**
-
-Md. Mahinur Rahman
+<hr>
+<table style="border:none">
+  <tr>  
+    <td align="center"><img src="Documentation/mahinsLogo.png" height="250" width="250"></h4></td>
+  </tr>
+  <tr>  
+    <td align="center"><h4>Developed by <br> Md. Mahinur Rahman</h4></td>
+  </tr>
+</table>
